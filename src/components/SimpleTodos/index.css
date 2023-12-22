@@ -1,0 +1,34 @@
+/* Write your CSS here */
+
+* {
+  padding: 0px;
+  margin: 0px;
+  font-family: 'Roboto';
+  box-sizing: border-box;
+}
+
+.bg-container {
+  background-color: #ffc2a0;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.card-container {
+  background-color: #ffffff;
+  width: 90%;
+  border-radius: 10px;
+  padding: 30px;
+}
+
+.heading {
+  color: #ff8542;
+  font-size: 30px;
+  text-align: center;
+  padding-top: 10px;
+}
+
+.lists-container {
+  list-style-type: none;
+}
